@@ -1,2 +1,2 @@
 # Hola-Mundo
-Mi primer hola mundo.
+Mi primer repositorio.
